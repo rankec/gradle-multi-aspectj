@@ -1,0 +1,4 @@
+rootProject.name = 'GaspectJ'
+
+include 'sub-project'
+
